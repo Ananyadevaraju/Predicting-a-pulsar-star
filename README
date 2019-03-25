@@ -44,7 +44,7 @@ MODEL TRAINED ON:
 By validating using scikit-learn, the accuracy of the following was found to be:
 
 1)Logistic Regression  - 0.9754189944134078
-2)K-Nearest Neighbours - 0.9667597765363128
+2)K-Nearest Neighbours - 0.9675977653631285
 
 The model is trained on logistic regression for a better accuracy.
 
@@ -56,4 +56,6 @@ REFERENCES:
 2)D. R. Lorimer and M. Kramer, 'Handbook of Pulsar Astronomy', Cambridge University Press, 2005.
 
 3)V. Morello et al., 'SPINN: a straightforward machine learning solution to the pulsar candidate selection problem', Monthly Notices of the Royal Astronomical Society, vol. 443, no. 2, pp. 1651-1662, 2014. 
+
+4)R. J. Lyon, 'PulsarFeatureLab', 2015.
 
