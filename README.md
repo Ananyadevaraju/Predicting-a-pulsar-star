@@ -41,23 +41,23 @@ It also requires a software installed to run and execute the Jupyter Notebook.
 * Negative or class 0 (Not a Pulsar star)
 
 
-MODEL TRAINED ON:
+#### MODEL TRAINED ON:
 
 By validating using scikit-learn, the accuracy of the following was found to be:
 
-1)Logistic Regression  - 0.9754189944134078
-2)K-Nearest Neighbours - 0.9675977653631285
+1. Logistic Regression  - 0.9754189944134078
+2. K-Nearest Neighbours - 0.9675977653631285
 
 The model is trained on logistic regression for a better accuracy.
 
 
-REFERENCES:
+#### REFERENCES:
 
-1)R. J. Lyon, B. W. Stappers, S. Cooper, J. M. Brooke, J. D. Knowles, Fifty Years of Pulsar Candidate Selection: From simple filters to a new principled real-time classification approach, Monthly Notices of the Royal Astronomical Society 459 (1), 1104-1123, DOI: 10.1093/mnras/stw656 
+1. R. J. Lyon, B. W. Stappers, S. Cooper, J. M. Brooke, J. D. Knowles, Fifty Years of Pulsar Candidate Selection: From simple filters to a new principled real-time classification approach, Monthly Notices of the Royal Astronomical Society 459 (1), 1104-1123, DOI: 10.1093/mnras/stw656 
 
-2)D. R. Lorimer and M. Kramer, 'Handbook of Pulsar Astronomy', Cambridge University Press, 2005.
+2. D. R. Lorimer and M. Kramer, 'Handbook of Pulsar Astronomy', Cambridge University Press, 2005.
 
-3)V. Morello et al., 'SPINN: a straightforward machine learning solution to the pulsar candidate selection problem', Monthly Notices of the Royal Astronomical Society, vol. 443, no. 2, pp. 1651-1662, 2014. 
+3. V. Morello et al., 'SPINN: a straightforward machine learning solution to the pulsar candidate selection problem', Monthly Notices of the Royal Astronomical Society, vol. 443, no. 2, pp. 1651-1662, 2014. 
 
-4)R. J. Lyon, 'PulsarFeatureLab', 2015.
+4. R. J. Lyon, 'PulsarFeatureLab', 2015.
 
